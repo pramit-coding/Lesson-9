@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<head>
+    <title><b>Sunil Gavasker</b></title>
+    <style>
+        div {
+            color: green;
+            background-color:pink;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 10px;
+        }
+#Biryani{
+transform:rotateX(90deg);
+
+
+}
+
+    </style>
+
+</head>
+
+<body>
+    <h1><b>Sunil Gavasker</b></h1>
+
+    <div id="Biryani">Biryani is a layered Indian dish that includes rice and either lamb, chicken, or fish, and vegetables, along with spices
+    like saffron in a rich gravy.</div>
+<div>The main components of this dish are rice, meat, marinade, and spices. Basmati rice is definitely prevalent, but you will also find other grains such as seeraga samba and jeerakasala.</div>
+    <img src="download (1).jpeg">
+
+
+</body>
